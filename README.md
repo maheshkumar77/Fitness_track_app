@@ -14,3 +14,8 @@ The app has been developed with NextJS and few other technologies I'm going to l
 - Primereact
 - Recoil
 - Chart.js
+### In Live View
+
+https://github.com/user-attachments/assets/c8fa0b0f-4abd-4cbc-979c-b17e1f79bc97
+
+
